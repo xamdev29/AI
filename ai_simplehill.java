@@ -1,4 +1,4 @@
-public class aisimplehill {
+public class ai_simplehill {
 	// Penghitungan Jarak Terpendek
 	static int jarak[][] = {
 		{6, 10, 8, 7}, // Jarak A ke B, C, D, E
