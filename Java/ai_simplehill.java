@@ -1,3 +1,12 @@
+/*=============================================================
+Travelling Salesman Problem
+	- Perhitungan jarak terpendek yang dapat ditempuh oleh seorang sales
+	- Terdapat 5 kota dan masing masing hanya dapat dilewati sebanyak 1x
+	- Setiap kota terhubung satu sama lain
+
+Perhitungan ini menggunakan Heuristic Search dengan Algoritma Simple Hill Climb
+=============================================================*/
+
 public class ai_simplehill {
 	// Penghitungan Jarak Terpendek
 	static int jarak[][] = {
